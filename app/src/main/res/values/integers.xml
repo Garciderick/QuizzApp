@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="right_answer">1</integer>
+    <integer name="wrong_answer">2</integer>
+    <integer name="not_answered">0</integer>
+</resources>

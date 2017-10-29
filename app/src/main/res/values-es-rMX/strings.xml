@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="answer_button">Lo tengo!</string>
+    <string name="next_button">Siguiente pregunta</string>
+    <string name="finish_button">Terminar la trivia!</string>
+    <string name="main_str1">Por favor dime tu nombre</string>
+    <string name="main_str2">Comenzar la trivia!!</string>
+    <string name="bad_result0">No sabes nada de pokemon</string>
+    <string name="bad_result1">1... solo 1 respuesta correcta... esta trivia no es para ti</string>
+    <string name="bad_result2">2 respuestas correctas! no entiendes el truco?</string>
+    <string name="bad_result3">3 respuestas correctas? vamos! solo bromeas conmigo</string>
+    <string name="right_result">Impresionante!</string>
+    <string name="try_again">Tratar otra vez!</string>
+    <string name="name_validation">Por favor dame tu nombre</string>
+    <string name="one_str1">¿Quien es ese pokemenon?</string>
+    <string name="two_str3">Buddman?.... si...</string>
+    <string name="three_str1">Pikachu gordo?</string>
+    <string name="four_str2">Tiene que ser pikachu</string>
+    <string name="four_str3">Obviamente es PIKACHU!!!!</string>
+    <string name="right_answer">Wow la tuviste bien!!</string>
+    <string name="wrong_answer">Hmm, no exactamente...</string>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="answer_button">got it!</string>
+    <string name="next_button">Next question</string>
+    <string name="finish_button">Finish the quiz!</string>
+    <string name="main_str1">Please tell me your name</string>
+    <string name="main_str2">Start the quiz!!</string>
+    <string name="bad_result0">You know nothing about pokemon... </string>
+    <string name="bad_result1">1... only 1 correct answer... this quiz is just not for you...</string>
+    <string name="bad_result2">2 correct answers! did you not get the trick yet?</string>
+    <string name="bad_result3">3 correct answers? come on! you must be kidding me</string>
+    <string name="right_result">Impressive!</string>
+    <string name="place_holder_slash" translatable="false">/</string>
+    <string name="total_questions" translatable="false">4</string>
+    <string name="try_again">Try again!</string>
+    <string name="name_validation">Please give me your name</string>
+
+    <!--String for question one -->
+    <string name="one_str1">Who is that pokemon?</string>
+    <string name="one_str2" translatable="false">Zubatman</string>
+    <string name="one_str3" translatable="false">Zubat</string>
+    <string name="one_str4" translatable="false">Pikachu</string>
+
+    <!--String for question two -->
+    <string name="two_str1" translatable="false">Pikachu!</string>
+    <string name="two_str2" translatable="false">B...batman?</string>
+    <string name="two_str3">Buddman?....yeah...</string>
+
+    <!--String for question three -->
+    <string name="three_str1">Fat pikachu?</string>
+    <string name="three_str2" translatable="false">Batman</string>
+    <string name="three_str3" translatable="false">Snorlax</string>
+
+    <!--String for question four -->
+    <string name="four_str1" translatable="false">PIKACHU!!!!</string>
+    <string name="four_str2">It has to be a pikachu!!!!</string>
+    <string name="four_str3">Obviously a PIKACHU!!!!</string>
+
+    <!--Toast messages-->
+    <string name="right_answer">Wow you got it right!!</string>
+    <string name="wrong_answer">Hmm, not quite...</string>
+
+</resources>
